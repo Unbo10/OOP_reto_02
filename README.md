@@ -1,10 +1,10 @@
 # Airport class diagram
 
 The following class diagram illustrates composition and inheritance relations among classes that are part of an airport system. It has a level of abstraction sufficient for an essential understanding of the system from an airline company perspective:
-> - It ignores the terminal facilities for the passenger and focuses on the interaction she/he will have with the company's airplane and staff. 
-> - Furthermore, it doesn't go into detail about the services that are available for a plane while parked at the airport (apart from the needed to park, land and take off), but it does emphasize in the role the airplane plays in connecting its crew and the airport management. 
-> - In the same way, the airplane operation and the airport itself are linked with the pilot and the air control, which are the main actors in a flight when it comes to the plane operation.
-> - Lastly, the airport is given the responsibility of managing the weather and the ground crew, which are crucial for the operation of the airplane but the airport is responsible for checking them.
+- It ignores the terminal facilities for the passenger and focuses on the interaction she/he will have with the company's airplane and staff. 
+- Furthermore, it doesn't go into detail about the services that are available for a plane while parked at the airport (apart from the needed to park, land and take off), but it does emphasize in the role the airplane plays in connecting its crew and the airport management. 
+- In the same way, the airplane operation and the airport itself are linked with the pilot and the air control, which are the main actors in a flight when it comes to the plane operation.
+- Lastly, the airport is given the responsibility of managing the weather and the ground crew, which are crucial for the operation of the airplane but the airport is responsible for checking them.
 
 Note: The composition relation is represented by the diamond symbol, and the inheritance relation is represented by the arrow symbol. The diamond means the class that has the other one, whereas the arrow indicates the class from which the other one inherits.
 
